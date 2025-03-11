@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+대구과학고 38기 1103 김건우입니다.
 <!--
 **Kunwoocrom/Kunwoocrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
